@@ -1,10 +1,8 @@
-# Basic JavaScript ChatBot
+﻿# Basic JavaScript ChatBot
 
 A simple chatbot implemented in JavaScript using the brain.js library.
 
 ## Description
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot?ref=badge_shield)
-
 
 This project showcases a basic chatbot implemented in JavaScript. The chatbot is designed to generate responses based on user input and is powered by the brain.js library, which provides an easy-to-use interface for creating and training neural networks.
 
@@ -31,6 +29,7 @@ This project showcases a basic chatbot implemented in JavaScript. The chatbot is
 
     ```bash
     cd your-repo
+
 
 3. Install project dependencies:
 
@@ -64,9 +63,4 @@ In the Colab notebook, you'll be able to run the project interactively and see t
 [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-517b601a9/)
 
 ## Acknowledgments
-
-[brain.js Library](https://github.com/BrainJS)
-
-
-## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot?ref=badge_large)
