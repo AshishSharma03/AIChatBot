@@ -63,6 +63,4 @@ In the Colab notebook, you'll be able to run the project interactively and see t
 [Ashish Sharma](https://www.linkedin.com/in/ashish-sharma-517b601a9/)
 
 ## Acknowledgments
-
-[brain.js Library](https://github.com/BrainJS)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAshishSharma03%2FAIChatBot?ref=badge_large)
